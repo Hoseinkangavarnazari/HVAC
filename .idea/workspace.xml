@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/index.html" line="299" />
+    <bookmark url="file://$PROJECT_DIR$/index.html" line="328" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f60e388-ff69-482c-9382-91e08d823771" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accordion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advance-form-element.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alerts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-form-element.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-editor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/accordions.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/alerts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/buttons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/c3/c3.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/calendar/fullcalendar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/calendar/fullcalendar.print.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chosen/bootstrap-chosen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chosen/chosen-sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/code-editor/ambiance.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/code-editor/codemirror.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colorpicker/colorpicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/cropper/cropper.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/data-table/bootstrap-editable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/data-table/bootstrap-table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/datapicker/colorpicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/datapicker/datepicker3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/dropzone/dropzone.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/duallistbox/bootstrap-duallistbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/editor/bootstrap-editable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/editor/datetimepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/editor/select2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/editor/x-editor-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/form/all-type-forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/form/themesaller-forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/ionRangeSlider/ion.rangeSlider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/ionRangeSlider/ion.rangeSlider.skinFlat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/ionRangeSlider/sprite-skin-flat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/modals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/notifications/Lobibox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/notifications/notifications.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/preloader/preloader-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/select2/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/summernote/fonts/summernote.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/summernote/fonts/summernote.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/summernote/fonts/summernote.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/summernote/summernote.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/touchspin/jquery.bootstrap-touchspin.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/tree-viewer/32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/tree-viewer/throbber.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/tree-viewer/tree-viewer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom-product-card.html" beforeDir="false" afterPath="$PROJECT_DIR$/custom-product-card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom-product-detial.html" beforeDir="false" afterPath="$PROJECT_DIR$/custom-product-detial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-maps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dual-list-box.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file-manager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images-cropper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo/logosn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/c3-charts/c3-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/c3-charts/c3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/c3-charts/d3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/calendar/fullcalendar-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/calendar/fullcalendar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/calendar/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chart/jquery.peity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chart/peity-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/charts/Chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/charts/area-chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/charts/bar-chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/charts/line-chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/charts/rounded-chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chosen/chosen-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chosen/chosen.jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/code-editor/code-editor-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/code-editor/code-editor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/code-editor/codemirror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/colorpicker/color-picker-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/colorpicker/jquery.spectrum.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/counterup/counterup-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/counterup/jquery.counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/counterup/waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/cropper/cropper-actice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/cropper/cropper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-map/d3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-map/data-maps-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-map/datamaps.all.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-map/topojson.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-table/bootstrap-editable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-table/bootstrap-table-editable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-table/bootstrap-table-export.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-table/bootstrap-table-resizable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-table/bootstrap-table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-table/colResizable-1.5.source.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-table/data-table-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-table/tableExport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/datapicker/bootstrap-datepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/datapicker/datepicker-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/dropzone/dropzone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/duallistbox/duallistbox.active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/duallistbox/jquery.bootstrap-duallistbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/e-payment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/editable/bootstrap-datetimepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/editable/bootstrap-editable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/editable/jquery.mockjax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/editable/mock-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/editable/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/editable/select2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/editable/xediable-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/google.maps/google.maps-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/icheck/icheck-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/icheck/icheck.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/input-mask/jasny-bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ionRangeSlider/ion.rangeSlider.active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ionRangeSlider/ion.rangeSlider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.payform.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/knob/jquery.knob.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/knob/knob-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/morrisjs/morris-active-pro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/morrisjs/morris-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/morrisjs/morris.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/morrisjs/raphael-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/notifications/Lobibox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/notifications/notification-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/password-meter/password-meter-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/password-meter/pwstrength-bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/password-meter/zxcvbn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/pdf/jquery.media.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/pdf/pdf-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/peity/jquery.peity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/peity/peity-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/rangle-slider/jquery-ui-1.10.4.custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/rangle-slider/jquery-ui-touch-punch.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/rangle-slider/rangle-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/select2/select2-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/select2/select2.full.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/summernote/summernote-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/summernote/summernote.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/touchspin/jquery.bootstrap-touchspin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/touchspin/touchspin-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tree-line/jstree.active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tree-line/jstree.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/wizard/jquery.steps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/wizard/steps-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailbox-compose.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailbox-view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-upload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notifications.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/password-meter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/password-recovery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf-viewer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/mamunur.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/peity.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/preloader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-payment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rounded-chart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static-table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinymc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree-view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-editable.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="248" column="18" lean-forward="true" selection-start-line="218" selection-start-column="11" selection-end-line="248" selection-end-column="18" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#i#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom-product-card.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/custom-product-card.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="292" selection-start-line="292" selection-end-line="292" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#i#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom-product-detial.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom-product-detial.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2459">
+              <caret line="381" lean-forward="true" selection-start-line="381" selection-end-line="381" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#i#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.rnc" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="545">
+              <caret line="192" column="18" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tota</find>
+      <find>single-tab</find>
+      <find>table</find>
+      <find>img</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index-2.html" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/product-cart.html" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/custom-product-detial.html" />
+        <option value="$PROJECT_DIR$/custom-product-card.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1413" />
+    <option name="y" value="15" />
+    <option name="width" value="1292" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HVAC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HVAC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HVAC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HVAC" type="462c0819:PsiDirectoryNode" />
+              <item name="Dashboard Icon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HVAC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HVAC" type="462c0819:PsiDirectoryNode" />
+              <item name="Dashboard Icon" type="462c0819:PsiDirectoryNode" />
+              <item name="Data History" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HVAC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HVAC" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="style&#9;FILE&#9;file://D:/New folder (3)/HVAC/style.css" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\New folder (3)\HVAC\" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\New folder (3)\HVAC" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f60e388-ff69-482c-9382-91e08d823771" name="Default" comment="" />
+      <created>1562420528356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562420528356</updated>
+      <workItem from="1562420532301" duration="2509000" />
+      <workItem from="1562477859155" duration="22111000" />
+      <workItem from="1562571373791" duration="14020000" />
+      <workItem from="1562669658330" duration="799000" />
+      <workItem from="1562756821105" duration="3630000" />
+      <workItem from="1562761195272" duration="10474000" />
+      <workItem from="1562828267317" duration="15674000" />
+      <workItem from="1562857558343" duration="3183000" />
+      <workItem from="1562914359217" duration="4468000" />
+      <workItem from="1563007342331" duration="6891000" />
+      <workItem from="1563024700621" duration="755000" />
+      <workItem from="1563025629026" duration="913000" />
+      <workItem from="1563026641980" duration="623000" />
+      <workItem from="1563084885179" duration="11592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="97642000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1456" height="886" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08524355" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23395722" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23828">
+          <caret line="1036" column="43" lean-forward="true" selection-start-line="1035" selection-start-column="35" selection-end-line="1037" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static-table.html" />
+    <entry file="file://$PROJECT_DIR$/custom-product-card.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22517">
+          <caret line="979" selection-start-line="979" selection-end-line="979" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#i#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-cart.html" />
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-product-detial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20493">
+          <caret line="891" lean-forward="true" selection-start-line="891" selection-end-line="891" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#i#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20263">
+          <caret line="881" lean-forward="true" selection-start-line="881" selection-end-line="881" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="4" column="17782" selection-start-line="4" selection-start-column="17782" selection-end-line="4" selection-end-column="17782" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-2.html" />
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/product-list.html" />
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20608">
+          <caret line="896" column="80" selection-start-line="896" selection-start-column="80" selection-end-line="896" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="4" column="17782" selection-start-line="4" selection-start-column="17782" selection-end-line="4" selection-end-column="17782" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-2.html" />
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/product-list.html" />
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20010">
+          <caret line="870" column="52" selection-start-line="870" selection-start-column="52" selection-end-line="870" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="4" column="17782" selection-start-line="4" selection-start-column="17782" selection-end-line="4" selection-end-column="17782" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-2.html" />
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/product-list.html" />
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1472">
+          <caret line="64" column="2" lean-forward="true" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1702">
+          <caret line="74" column="53" selection-start-line="74" selection-start-column="53" selection-end-line="74" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/c3/c3.min.css" />
+    <entry file="file://$PROJECT_DIR$/css/form/all-type-forms.css" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/sectional.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-list.html" />
+    <entry file="file://$PROJECT_DIR$/custom-static-table.html" />
+    <entry file="file://$PROJECT_DIR$/index-2.html" />
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="4" column="17782" selection-start-line="4" selection-start-column="17782" selection-end-line="4" selection-end-column="17782" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-edit.html" />
+    <entry file="file://$PROJECT_DIR$/product-detail.html" />
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-1.html" />
+    <entry file="file://$PROJECT_DIR$/static-table.html" />
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-362">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-cart.html" />
+    <entry file="file://$PROJECT_DIR$/css/nalika-icon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="192" column="18" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="248" column="18" lean-forward="true" selection-start-line="218" selection-start-column="11" selection-end-line="248" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#i#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-product-detial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2459">
+          <caret line="381" lean-forward="true" selection-start-line="381" selection-end-line="381" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#i#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-product-card.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="292" selection-start-line="292" selection-end-line="292" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#i#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
